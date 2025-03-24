@@ -37,14 +37,13 @@ Food production is a major driver of **environmental degradation**, contributing
 ---
 
 ## 📂 Project Structure
-📦 Environmental-Impact-Food-Production
- ┣ 📂 data/                  # Raw & processed datasets
- ┣ 📂 notebooks/             # Jupyter notebooks for EDA & modeling
- ┣ 📂 scripts/               # Python scripts for data processing & analysis
- ┣ 📂 visualizations/        # Charts & dashboards for insights
- ┣ 📂 reports/               # Final documentation & policy recommendations
- ┣ 📜 README.md              # Project overview & methodology
-
+📦 Environmental-Impact-Food-Production/
+│-- data/                # Raw & processed datasets
+│-- notebooks/           # Jupyter notebooks for EDA & modeling
+│-- scripts/             # Python scripts for data processing & analysis
+│-- visualizations/      # Charts & dashboards for insights
+│-- reports/             # Final documentation & policy recommendations
+│-- README.md            # Project overview & methodology
 
 ---
 

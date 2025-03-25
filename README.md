@@ -48,12 +48,12 @@ Food production is a major driver of **environmental degradation**, contributing
 ---
 
 ## 🛠 Tools & Libraries
-✅ **Python** – Main programming language  
-✅ **Pandas & NumPy** – Data handling and numerical analysis  
-✅ **Matplotlib & Seaborn** – Data visualization  
-✅ **Scikit-learn** – Machine learning models for pattern recognition  
-✅ **Tableau & Power BI** – Dashboard creation for insights  
-✅ **Git & GitHub** – Version control and collaboration  
+✅ **Python** – Main programming language.  
+✅ **Pandas & NumPy** – Data handling and numerical analysis.  
+✅ **Matplotlib & Seaborn** – Data visualization.  
+✅ **Scikit-learn** – Machine learning models for pattern recognition.  
+✅ **Tableau & Power BI** – Dashboard creation for insights.  
+✅ **Git & GitHub** – Version control and collaboration.  
 
 ---
 
@@ -61,6 +61,6 @@ Food production is a major driver of **environmental degradation**, contributing
 📊 **Perform Exploratory Data Analysis (EDA)**  
 📈 **Develop Regression & Clustering Models**  
 🚀 **Create Actionable Reports & Visualizations**  
-📡 **Deploy Insights for Policymakers & Industry Leaders**  
+📡 **Deploy Insights for Policymakers & Industry Leaders**
 
 🌱 **Stay tuned as we explore the data and work toward building a sustainable food system!** 🌍  

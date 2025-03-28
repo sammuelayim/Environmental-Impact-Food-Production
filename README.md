@@ -1,7 +1,7 @@
 # 🌍 Environmental Impact of Food Production Analysis
 
 ## 📌 Project Overview
-Food production is a major driver of **environmental degradation**, contributing to **climate change, water scarcity, biodiversity loss, and land overuse**. This project analyzes the **environmental footprint of different food types, farming methods, and geographic regions** to provide data-driven insights for sustainability.
+Food production is a major driver of environmental degradation, contributing to climate change, water scarcity, biodiversity loss, and land overuse. This project analyzes the environmental footprint of different food types, farming methods, and geographic regions to provide data-driven insights for sustainability.
 
 ---
 
@@ -61,6 +61,6 @@ Food production is a major driver of **environmental degradation**, contributing
 📊 **Perform Exploratory Data Analysis (EDA)**  
 📈 **Develop Regression & Clustering Models**  
 🚀 **Create Actionable Reports & Visualizations**  
-📡 **Deploy Insights for Policymakers & Industry Leaders**
+📡 **Deploy Insights for Policymakers & Industry Leaders.**
 
 🌱 **Stay tuned as we explore the data and work toward building a sustainable food system!** 🌍  
